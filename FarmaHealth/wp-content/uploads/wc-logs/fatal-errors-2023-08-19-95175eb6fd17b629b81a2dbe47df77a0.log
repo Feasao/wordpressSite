@@ -1,0 +1,16 @@
+2023-08-19T11:22:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-integrations.php on line 13
+
+2023-08-19T11:22:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 12
+
+2023-08-19T11:22:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\src\Admin\API\OnboardingProfile.php on line 10
+
+2023-08-19T11:22:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\src\Admin\API\NavigationFavorites.php on line 10
+
+2023-08-19T11:23:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\src\Admin\API\Reports\PerformanceIndicators\Controller.php on line 12
+
+2023-08-19T11:23:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php on line 257
+
+2023-08-19T11:23:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\RuleEvaluator.php on line 9
+
+2023-08-19T11:23:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woocommerce\includes\gateways\bacs\class-wc-gateway-bacs.php on line 8
+

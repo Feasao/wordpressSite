@@ -1,0 +1,60 @@
+2023-08-22T08:25:26+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php:69
+Stack trace:
+#0 E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php(69): in_array('coldnflu', NULL)
+#1 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-widget.php(535): WOOBSP_Best_Selling_Products_Widget->form(Array)
+#2 E:\xampp\htdocs\FarmaHealth\wp-admin\includes\widgets.php(276): WP_Widget->form_callback(Array)
+#3 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1148): wp_widget_control(Array, Array)
+#4 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1096): WP_Customize_Widgets->get_widget_control(Array)
+#5 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(714): WP_Customize_Widgets->get_available_widgets()
+#6 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(310): WP_Customize_Widgets->enqueue_scripts('')
+#7 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp\htdocs\FarmaHealth\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 E:\xampp\htdocs\FarmaHealth\wp-admin\customize.php(123): do_action('customize_contr...')
+#10 {main}
+  thrown in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php on line 69
+
+2023-08-22T08:34:09+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php:69
+Stack trace:
+#0 E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php(69): in_array('coldnflu', NULL)
+#1 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-widget.php(535): WOOBSP_Best_Selling_Products_Widget->form(Array)
+#2 E:\xampp\htdocs\FarmaHealth\wp-admin\includes\widgets.php(276): WP_Widget->form_callback(Array)
+#3 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1148): wp_widget_control(Array, Array)
+#4 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1096): WP_Customize_Widgets->get_widget_control(Array)
+#5 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(714): WP_Customize_Widgets->get_available_widgets()
+#6 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(310): WP_Customize_Widgets->enqueue_scripts('')
+#7 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp\htdocs\FarmaHealth\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 E:\xampp\htdocs\FarmaHealth\wp-admin\customize.php(123): do_action('customize_contr...')
+#10 {main}
+  thrown in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php on line 69
+
+2023-08-22T08:49:14+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php:69
+Stack trace:
+#0 E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php(69): in_array('coldnflu', NULL)
+#1 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-widget.php(535): WOOBSP_Best_Selling_Products_Widget->form(Array)
+#2 E:\xampp\htdocs\FarmaHealth\wp-admin\includes\widgets.php(276): WP_Widget->form_callback(Array)
+#3 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1148): wp_widget_control(Array, Array)
+#4 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1096): WP_Customize_Widgets->get_widget_control(Array)
+#5 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(714): WP_Customize_Widgets->get_available_widgets()
+#6 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(310): WP_Customize_Widgets->enqueue_scripts('')
+#7 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp\htdocs\FarmaHealth\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 E:\xampp\htdocs\FarmaHealth\wp-admin\customize.php(123): do_action('customize_contr...')
+#10 {main}
+  thrown in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php on line 69
+
+2023-08-22T12:06:36+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php:69
+Stack trace:
+#0 E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php(69): in_array('coldnflu', NULL)
+#1 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-widget.php(535): WOOBSP_Best_Selling_Products_Widget->form(Array)
+#2 E:\xampp\htdocs\FarmaHealth\wp-admin\includes\widgets.php(276): WP_Widget->form_callback(Array)
+#3 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1148): wp_widget_control(Array, Array)
+#4 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(1096): WP_Customize_Widgets->get_widget_control(Array)
+#5 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-customize-widgets.php(714): WP_Customize_Widgets->get_available_widgets()
+#6 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(310): WP_Customize_Widgets->enqueue_scripts('')
+#7 E:\xampp\htdocs\FarmaHealth\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp\htdocs\FarmaHealth\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 E:\xampp\htdocs\FarmaHealth\wp-admin\customize.php(123): do_action('customize_contr...')
+#10 {main}
+  thrown in E:\xampp\htdocs\FarmaHealth\wp-content\plugins\woo-best-selling-products\widget\woobsp-widget.php on line 69
+
